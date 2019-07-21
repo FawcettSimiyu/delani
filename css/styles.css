@@ -145,3 +145,7 @@
   border: none;
   background-color: white;
 }
+/*add mobile phones responsiveness*/
+[class*="col-"] {
+  width: 100%;
+}
