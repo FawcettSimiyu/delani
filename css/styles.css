@@ -121,30 +121,10 @@
   font-family: gothic;
   font-size: 25px;
 }
-.standard{
+.standard,.standard1,.standard2,.standard3,.standard4,.standard5,.standard6,.standard7 {
   position: relative;
 }
-.standard1{
-  position: relative;
-}
-.standard2{
-  position: relative;
-}
-.standard3{
-  position: relative;
-}
-.standard4{
-  position: relative;
-}
-.standard5{
-  position: relative;
-}
-.standard6{
-  position: relative;
-}
-.standard7{
-  position: relative;
-}
+
 .contact-form{
   padding-top: -30px;
   font-family: sans-serif;
