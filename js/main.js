@@ -86,3 +86,26 @@ function formValidation() {
     alert("Hi " + name + " We have received your message. Thank you for reaching out.")
   };
 };
+
+/*$("#my_form").bind("submit",function(event){
+  event.preventDefault();
+  var name = document.getElementById('name').value;
+  var email = document.getElementById('email').value;
+  var url = "https://us20.api.mailchimp.com/2.0/lists/subscribe.json?"
+            + "apikey=de75f98c83228fca4c2e090e83b56fcd-us20 id="34a5d208f9"
+            + "&email[email]=" + email
+            + "&merge_VARS[FNAME]=" + name
+            + "&double_optin=false"
+            + "&send_welcome=false";
+  $.ajax({
+    type: "POST",
+    url: url,
+    dataType: 'json',
+    success: function(data){
+      $("#my_form").html(alert("Thank you"));
+    },
+    error: function(jqXHR,textStatus,erroThrown){
+      alert(errorThrown);
+    }
+  });
+});*/
