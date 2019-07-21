@@ -1,7 +1,7 @@
 # Project Name
 ### Delani Studio: clone web application
 ## Project Description
-The project is a cloning a studio website with all assets provided. It requires to cloned site to be the exact replica of the original including the styling and images. Other effects are required to be added using jquery and javascript.
+The project is a cloning a studio website with all assets provided. It requires the cloned site to be the exact replica of the original including the styling and images. Other effects are required to be added using jquery and javascript.
 ## Author Information
 Name: Fawcett Simiyu
 Profession: Student at Moringa School
