@@ -88,7 +88,6 @@ function formValidation() {
 };
 
 /*$("#my_form").bind("submit",function(event){
-  event.preventDefault();
   var name = document.getElementById('name').value;
   var email = document.getElementById('email').value;
   var url = "https://us20.api.mailchimp.com/2.0/lists/subscribe.json?"
