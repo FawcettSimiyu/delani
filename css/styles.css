@@ -43,3 +43,106 @@
   font-weight: bold;
   text-align: center;
 }
+.caption{
+  display: none;
+  position: absolute;
+  color: white;
+  padding-left: 40px;
+  font-family: gothic;
+  font-size: 25px;
+}
+.caption1{
+  display: none;
+  position: absolute;
+  color: white;
+  padding-left: 350px;
+  font-family: gothic;
+  font-size: 25px;
+}
+.caption2{
+  display: none;
+  position: absolute;
+  color: white;
+  padding-left: 670px;
+  font-family: gothic;
+  font-size: 25px;
+}
+.caption3{
+  display: none;
+  position: absolute;
+  color: white;
+  padding-left: 980px;
+  font-family: gothic;
+  font-size: 25px;
+}
+.caption4{
+  display: none;
+  position: absolute;
+  color: white;
+  padding-left: 40px;
+  font-family: gothic;
+  font-size: 25px;
+}
+.caption5{
+  display: none;
+  position: absolute;
+  color: white;
+  padding-left: 350px;
+  font-family: gothic;
+  font-size: 25px;
+}
+.caption6{
+  display: none;
+  position: absolute;
+  color: white;
+  padding-left: 670px;
+  font-family: gothic;
+  font-size: 25px;
+}
+.caption7{
+  display: none;
+  position: absolute;
+  color: white;
+  padding-left: 980px;
+  font-family: gothic;
+  font-size: 25px;
+}
+.standard{
+  position: relative;
+}
+.standard1{
+  position: relative;
+}
+.standard2{
+  position: relative;
+}
+.standard3{
+  position: relative;
+}
+.standard4{
+  position: relative;
+}
+.standard5{
+  position: relative;
+}
+.standard6{
+  position: relative;
+}
+.standard7{
+  position: relative;
+}
+.contact-form{
+  padding-top: -30px;
+}
+.col-md-12{
+  padding-left: 220px;
+}
+.column2{
+  padding-right: 270px;
+}
+.column1{
+  padding-left: 170px;
+}
+::placeholder{
+  color: white;
+}
