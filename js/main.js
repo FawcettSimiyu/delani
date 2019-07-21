@@ -72,3 +72,17 @@ $(".standard7").hover(function(){
 }
 );
 });
+function formValidation() {
+  var name = document.getElementById('name').value;
+  var email = document.getElementById('email').value;
+  var message = document.getElementById('message').value;
+  if (name.length==0) {
+    alert("Please enter Name");
+  }else if (email.length==0) {
+    alert ("Please enter Email");
+  }else if (message.length==0) {
+    alert ("Please enter your message");
+  } else{
+    alert("Hi " + name + " We have received your message. Thank you for reaching out.")
+  };
+};
