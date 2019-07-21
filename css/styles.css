@@ -146,3 +146,7 @@
 ::placeholder{
   color: white;
 }
+.card-footer {
+  border: none;
+  background-color: white;
+}
